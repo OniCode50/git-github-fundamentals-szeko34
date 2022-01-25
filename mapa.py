@@ -41,3 +41,4 @@ def styri():
 
 tkinter.mainloop()
 
+print("hello world")
